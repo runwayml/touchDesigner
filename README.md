@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="resources/runway_icon.png" width="95">
-  <img src="resources/touch_icon.jpg" width="150">
+  <img src="https://runway.nyc3.digitaloceanspaces.com/assets/github/cover_runway_touchdesigner_github.jpg">
 </p>
 
-# Runway + TouchDesigner
+# Runway + Processing
 
-A collection of stand alone examples connecting [Runway](https://runwayml.com/) to [TouchDesigner](https://www.derivative.ca/).
-Examples are separated by current available models.
+A collection of examples and tutorials on how to use [Runway](https://runwayapp.ai/) with [TouchDesigner](https://www.derivative.ca/).
 
 ## Examples
 
