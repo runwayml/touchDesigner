@@ -1,0 +1,104 @@
+[
+    {
+        "filename": "apple-food-fruit-102104.jpg",
+        "results": [
+            {
+                "className": "Granny Smith",
+                "probability": 0.9228646755218506
+            },
+            {
+                "className": "pomegranate",
+                "probability": 0.030064251273870468
+            },
+            {
+                "className": "orange",
+                "probability": 0.025274906307458878
+            }
+        ]
+    },
+    {
+        "filename": "bananas-food-fruit-38283.jpg",
+        "results": [
+            {
+                "className": "banana",
+                "probability": 0.9651581048965454
+            },
+            {
+                "className": "zucchini, courgette",
+                "probability": 0.015001160092651844
+            },
+            {
+                "className": "cucumber, cuke",
+                "probability": 0.0056761400774121284
+            }
+        ]
+    },
+    {
+        "filename": "black-citrus-citrus-fruit-952360.jpg",
+        "results": [
+            {
+                "className": "lemon",
+                "probability": 0.5842780470848083
+            },
+            {
+                "className": "orange",
+                "probability": 0.4130621552467346
+            },
+            {
+                "className": "croquet ball",
+                "probability": 0.0010145942214876413
+            }
+        ]
+    },
+    {
+        "filename": "citrus-food-fresh-42059.jpg",
+        "results": [
+            {
+                "className": "orange",
+                "probability": 0.9631426334381104
+            },
+            {
+                "className": "lemon",
+                "probability": 0.03270132839679718
+            },
+            {
+                "className": "ping-pong ball",
+                "probability": 0.0019673905335366726
+            }
+        ]
+    },
+    {
+        "filename": "close-up-food-fruit-65256.jpg",
+        "results": [
+            {
+                "className": "pomegranate",
+                "probability": 0.6641150712966919
+            },
+            {
+                "className": "strawberry",
+                "probability": 0.2618950605392456
+            },
+            {
+                "className": "fig",
+                "probability": 0.0562974214553833
+            }
+        ]
+    },
+    {
+        "filename": "food-fruit-healthy-947879.jpg",
+        "results": [
+            {
+                "className": "pineapple, ananas",
+                "probability": 0.9876787662506104
+            },
+            {
+                "className": "ear, spike, capitulum",
+                "probability": 0.005599410738795996
+            },
+            {
+                "className": "corn",
+                "probability": 0.0015807126183062792
+            }
+        ]
+    }
+]
