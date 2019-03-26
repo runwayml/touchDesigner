@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://runway.nyc3.digitaloceanspaces.com/assets/github/cover_runway_touchdesigner_github.jpg">
+  <img src="./assets/cover_runway_touchdesigner_github.jpg">
 </p>
 
 # Runway + TouchDesigner
