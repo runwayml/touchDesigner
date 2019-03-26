@@ -6,7 +6,7 @@ This example generates a simple user interface to display images and their corre
 ### Running the Example
 
 * Open the **TDClassifier.toe** file and press 'F1' to enter performance mode.
-* Use the slider to scroll the image list.
+* Use the slider to scroll through the image list.
 * Press 'Esc' to leave performance mode.
 
 ### Add Your Own Image Folder
