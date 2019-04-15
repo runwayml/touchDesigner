@@ -9,6 +9,8 @@ This example generates a simple user interface to display images and their corre
 * Use the slider to scroll through the image list.
 * Press 'Esc' to leave performance mode.
 
+![TDClassifier Preview](preview.png)
+
 ### Add Your Own Image Folder
 
 * Use Runway and MobileNet to classify all your images and generate a JSON file.
