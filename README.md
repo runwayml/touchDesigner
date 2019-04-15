@@ -10,6 +10,8 @@ A collection of examples and tutorials on how to use [Runway](https://runwayapp.
 
 * MobileNet
   * [TDClassifier](MobileNet/TDClassifier)
+* ESRGAN
+  * [EnhanceTextures](ESRGAN/EnhanceTextures)
 
 ## Contributing
 
