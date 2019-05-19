@@ -14,8 +14,9 @@
 
 * Copy the JSON file with the pose data to the project folder, or use a file in a different location.
 * Navigate into the `project1` COMP.
-* Select the `data` DAT and load the JSON file on the `File` parameter. *Click on the `Pulse` button next to the `Load on Start` parameter*.
+* Select the `data` DAT and load the JSON file on the `File` parameter. Click on the `Pulse` button next to the `Load on Start` parameter.
 * Pose data ranges might vary considerably across different images or video. Select the `mathX` and `mathY` CHOPS and adjust the `To Range` parameters to move the dummy to the desired coordinate position.
+* **Note:** This example includes three data files, `exercise.json`, `runner.json`, and `walker.json`. Follow the steps above to try them out in TDPoseNet.
 
 ### Creating Your Own Data Files
 
