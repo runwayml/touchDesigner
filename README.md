@@ -13,8 +13,8 @@ More RunwayML networking examples [here](https://learn.runwayml.com/#/networking
 ## Examples
 
 ### HTTP
-* [Image Classification with MobileNet](MobileNet/TDClassifier), an example by [JP Yepez](https://www.jpyepez.com) 🎉
-* [Upscale Images and Enhance Textures with ESRGAN](ESRGAN/EnhanceTextures), an example by [JP Yepez](https://www.jpyepez.com) 🎉
+* [Image Classification with MobileNet](MobileNet/TDClassifier) by [JP Yepez](https://www.jpyepez.com) 🎉
+* [Upscale Images and Enhance Textures with ESRGAN](ESRGAN/EnhanceTextures) by [JP Yepez](https://www.jpyepez.com) 🎉
 
 ## Contributing
 
