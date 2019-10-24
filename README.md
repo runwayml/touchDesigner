@@ -4,7 +4,7 @@
 
 # RunwayML + TouchDesigner
 
-A collection of examples and tutorials on how to use [Runway](https://runwayapp.ai/) with [TouchDesigner](https://www.derivative.ca/).
+A collection of examples and tutorials on how to use [RunwayML](https://runwayml.com/) with [TouchDesigner](https://www.derivative.ca/).
 
 More RunwayML networking examples [here](https://learn.runwayml.com/#/networking/examples).
 
