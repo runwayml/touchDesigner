@@ -12,6 +12,8 @@ A collection of examples and tutorials on how to use [Runway](https://runwayapp.
   * [TDClassifier](MobileNet/TDClassifier)
 * ESRGAN
   * [EnhanceTextures](ESRGAN/EnhanceTextures)
+* PoseNet
+  * [TDPoseNet](PoseNet/TDPoseNet)
 
 ## Contributing
 
