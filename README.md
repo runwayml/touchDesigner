@@ -12,9 +12,13 @@ More RunwayML networking examples [here](https://learn.runwayml.com/#/networking
 
 ## Examples
 
-### HTTP
+### HTTP/JSON
 * [Image Classification with MobileNet](MobileNet/TDClassifier) by [JP Yepez](https://www.jpyepez.com) 🎉
+* [Estimate Human Figures with PoseNet](PoseNet/TDPoseNet) by [JP Yepez](https://www.jpyepez.com) 🎉
+
+### Socket.IO
 * [Upscale Images and Enhance Textures with ESRGAN](ESRGAN/EnhanceTextures) by [JP Yepez](https://www.jpyepez.com) 🎉
+* [Realistic Generative Images using StyleGAN2](StyleGAN2/TDVector) by [JP Yepez](https://www.jpyepez.com) 🎉
 
 ## Contributing
 
