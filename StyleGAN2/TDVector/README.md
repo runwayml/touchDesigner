@@ -6,14 +6,14 @@ texture to RunwayML. Once received, StyleGAN2 will generate
 state-of-the-art images from various available categories (human
 faces, cats, cars, and so forth).
 
-## Requirements:
+### Requirements:
 Requires Touchdesigner (2020 builds, SocketIO DAT added)
 
-## Using Vectors as Data Type:
+### Using Vectors as Data Type:
 This example will also work for any **vector-based models** (i.e. an
 array of floats as input).
 
-## Running the Example
+### Running the Example
 
 * Download the project folder.
 * Open RunwayML and create a workspace with the StyleGAN2 model. Check

@@ -3,7 +3,7 @@
 Image classification in Runway using **MobileNet** and Touchdesigner.
 This example generates a simple user interface to display images and their corresponding labels (exported from Runway).
 
-## Running the Example
+### Running the Example
 
 * Open the **TDClassifier.toe** file and press 'F1' to enter performance mode.
 * Use the slider to scroll through the image list.
@@ -11,7 +11,7 @@ This example generates a simple user interface to display images and their corre
 
 ![TDClassifier Preview](preview.png)
 
-## Add Your Own Image Folder
+### Add Your Own Image Folder
 
 * Use Runway and MobileNet to classify all your images and generate a JSON file.
 * Put all your images and the JSON file to a folder.
